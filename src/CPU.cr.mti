@@ -1,0 +1,39 @@
+{D:/computer organization/hw4/B34054082/src/top_tb.v} {1 {vlog -work work -stats=none {D:/computer organization/hw4/B34054082/src/top_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} {D:/computer organization/hw4/B34054082/src/CPU.v} {1 {vlog -work work -stats=none {D:/computer organization/hw4/B34054082/src/CPU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CPU
+-- Compiling module control
+-- Compiling module get_data
+-- Compiling module ALU
+-- Compiling module data_and_pc
+
+Top level modules:
+	CPU
+
+} {} {}} {D:/computer organization/hw4/B34054082/src/SRAM.v} {1 {vlog -work work -stats=none {D:/computer organization/hw4/B34054082/src/SRAM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SRAM
+
+Top level modules:
+	SRAM
+
+} {} {}} {D:/computer organization/hw4/B34054082/src/top.v} {1 {vlog -work work -stats=none {D:/computer organization/hw4/B34054082/src/top.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module CPU
+-- Compiling module control
+-- Compiling module get_data
+-- Compiling module ALU
+-- Compiling module data_and_pc
+-- Compiling module SRAM
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}}
